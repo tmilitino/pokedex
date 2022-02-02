@@ -23,7 +23,7 @@ pokedex_evo_gray.pt - modelo treinado com evolução dos pokemons escala de cinz
 ## Método
 
 ### Experimento 1
-No primeiro experimento foram observados os pokémons iniciais, com as fotos coloridas, foram analisadas 141 fotos, foi dado um split entre treino e teste de 80/20. Foram utilizados 5 epochs e obteve uma acurácia de 1.0, porém o modelo se baseou com a cor do pokémon, caso incluísse um pokémon de cor verde o modelo iria classificar como bulbasaur, comprovado  através do salvamento do modelo.O pokémons metapod (verde) como bulbasaur e pysgold (azul) como Squirtle. Convertendo as imagens para escala de cinza e o modelo não ficar enviazado por conta das cores, optivie uma acurácia 0.935484 para 10 epochs, com isso eliminei um vies de classificar pela cor. 
+No primeiro experimento foram observados os pokémons iniciais, com as fotos coloridas, foram analisadas 141 fotos, foi dado um split entre treino e teste de 80/20. Foram utilizados 5 epochs e obteve uma acurácia de 1.0, porém o modelo se baseou com a cor do pokémon, caso incluísse um pokémon de cor verde o modelo iria classificar como bulbasaur, comprovado  através do salvamento do modelo.O pokémons metapod (verde) como bulbasaur e goldduck (azul) como Squirtle. Convertendo as imagens para escala de cinza e o modelo não ficar enviazado por conta das cores, optivie uma acurácia 0.935484 para 10 epochs, com isso eliminei um vies de classificar pela cor. 
 ![WhatsApp Image 2022-02-01 at 02 00 08](https://user-images.githubusercontent.com/23370997/152085243-b2654421-3a9a-4667-bf46-eb7504448032.jpeg)
 
 ### Experimento 2
