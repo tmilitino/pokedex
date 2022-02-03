@@ -7,7 +7,7 @@ O projeto teve como objetivo predizer utilizando redes neurais (resnet) os poké
 
 Foram coletadas diversas imagens da internet (google), ao todo foram coletadas 7000 imagens divididas entre os 150 pokemons da primeira geração. \
 pokedex_alfa - pokemons inicias \
-evolução - pokemons sequencia de evolução
+evolução - pokemons na ordem de evolução
 
 ## Execução
 
