@@ -5,13 +5,13 @@ O projeto teve como objetivo predizer utilizando redes neurais (resnet) os poké
 
 ## Coleta das imagens
 
-Foram coletadas diversas imagens da internet (google), ao todo foram coletadas 7000 imagens divididas entre os 150 pokemons da primeira geração./
-pokedex_alfa - pokemons inicias /
-evolução - pokemons sequencia de evolução /
+Foram coletadas diversas imagens da internet (google), ao todo foram coletadas 7000 imagens divididas entre os 150 pokemons da primeira geração. \
+pokedex_alfa - pokemons inicias \
+evolução - pokemons sequencia de evolução
 
 ## Execução
 
-Para executar o notebook as células devem ser executadas em sequência para não ter problemas de referências de variáveis./
+Para executar o notebook as células devem ser executadas em sequência para não ter problemas de referências de variáveis.\
 O download do dataset já está incluso no notebook.
 
 ## Arquivos
